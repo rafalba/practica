@@ -9,7 +9,7 @@ function cambiarSaludo() {
     if (frase.innerText == "¡Ganando como siempre!") {
         frase.innerText = "¡Impongo moda para las niñas!";
     } else {
-        .innerText = "¡Ganando como siempre!";
+        frase.innerText = "¡Ganando como siempre!";
     }
     //console.log("frase :" + frase);
 }
